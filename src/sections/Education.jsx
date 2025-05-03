@@ -2,7 +2,7 @@ import React from 'react'
 
 const Education = () => {
   return (
-    <section id='education' className='lg:px-40 px-20 py-20 scroll-mt-20'>
+    <section id='education' className='lg:px-40 px-20 py-20 scroll-mt-24'>
         <p className='w-fit text-5xl font-medium bg-gradient-to-r from-[#F806CC] via-[#D10BA2] to-[#7900B9] pb-3 text-transparent bg-clip-text'>
             Education
         </p>

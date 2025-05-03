@@ -43,7 +43,7 @@ const Contact = () => {
                     <a href='mailto:anjaleeneelika20@gmail.com' className='hover:underline hover:underline-offset-4'>anjaleeneelika20@gmail.com</a>
                 </div>
             </div>
-            <div className='max-w-[400px] w-full'>
+            <div className='max-w-[400px] w-full mx-auto'>
                 <form action="" className='w-full flex flex-col gap-5 text-gray-600'>
                     <div>            
                         <input type="text" name="" id="" placeholder='Your Name' className='w-full bg-white placeholder:text-gray-400 placeholder:text-xs text-sm px-5 py-2.5 rounded-md outline-none hover:border hover:border-purple-800' />

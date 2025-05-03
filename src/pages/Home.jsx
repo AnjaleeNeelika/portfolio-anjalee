@@ -13,22 +13,22 @@ const Home = () => {
             <section id='hero'>
                 <Hero />
             </section>
-            <section id='about-me'  className='scroll-mt-20'>
+            <section id='about-me'  className='mt-10 scroll-mt-20'>
                 <AboutMe />
             </section>
-            <section id='experience'  className='scroll-mt-20'>
+            <section id='experience'  className='mt-10 scroll-mt-20'>
                 <Experience />
             </section>
-            <section id='education'  className='scroll-mt-20'>
+            <section id='education'  className='mt-10 scroll-mt-20'>
                 <Education />
             </section>
-            <section id='skills'  className='scroll-mt-20'>
+            <section id='skills'  className='mt-10 scroll-mt-20'>
                 <Skills />
             </section>
-            <section id='projects'  className='scroll-mt-20'>
+            <section id='projects'  className='mt-10 scroll-mt-20'>
                 <Projects />
             </section>
-            <section id='contact'  className='scroll-mt-20'>
+            <section id='contact'  className='mt-10 scroll-mt-20'>
                 <Contact />
             </section>
         </>

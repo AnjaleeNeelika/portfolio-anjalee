@@ -12,7 +12,7 @@ This is my personal portfolio website built using React JS and Tailwind CSS show
   * Education
   * Skills
   * Projects
-  * Contsct Me
+  * Contact Me
 
 
 ## 🛠️ Tech Stack

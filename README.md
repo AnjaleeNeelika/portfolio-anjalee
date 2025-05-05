@@ -24,7 +24,7 @@ This is my personal portfolio website built using React JS and Tailwind CSS show
 
  ### Clone the repository
  ```bash
-git clone ![https://github.com/AnjaleeNeelika/portfolio-anjalee.git](https://github.com/AnjaleeNeelika/portfolio-anjalee.git)
+git clone [https://github.com/AnjaleeNeelika/portfolio-anjalee.git](https://github.com/AnjaleeNeelika/portfolio-anjalee.git)
 ```
 
 ### Navigate to the project directory

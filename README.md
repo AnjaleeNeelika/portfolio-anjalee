@@ -1,12 +1,55 @@
-# React + Vite
+# 🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personalportfolio website built using React JS and Tailwind CSS showcasing my experience, skills and projects as a Full-Stack Developer.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- Responsive design
+- Sections
+  * About Me
+  * Experience
+  * Education
+  * Skills
+  * Projects
+  * Contsct Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React JS, Tailwind CSS
+
+
+ 🚀 Installation & Setup
+
+ ## Clone the repository
+ ```bash
+git clone [https://github.com/AnjaleeNeelika/portfolio-anjalee.git](https://github.com/AnjaleeNeelika/portfolio-anjalee.git)
+```
+
+## Navigate to the project directory
+```bash
+cd portfolio-anjalee
+```
+
+## Install dependencies
+```bash
+npm install
+```
+
+##Start the development server
+```bash
+npm run dev
+```
+
+
+## 🖥️ Live Demo
+
+Check out the live version of the site here: [https://AnjaleeNeelika.github.io/portfolio-anjalee](https://AnjaleeNeelika.github.io/portfolio-anjalee)
+
+
+# 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anjalee99/) or email me at [anjaleeneelika20@gmail.com](anjaleeneelika20@gmail.com).
+
+    

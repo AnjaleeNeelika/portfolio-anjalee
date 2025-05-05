@@ -1,6 +1,6 @@
 # 🚀 Personal Portfolio Website
 
-This is my personalportfolio website built using React JS and Tailwind CSS showcasing my experience, skills and projects as a Full-Stack Developer.
+This is my personal portfolio website built using React JS and Tailwind CSS showcasing my experience, skills and projects as a Full-Stack Developer.
 
 
 ## 📌 Features

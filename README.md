@@ -20,24 +20,24 @@ This is my personal portfolio website built using React JS and Tailwind CSS show
 - **Frontend:** React JS, Tailwind CSS
 
 
- 🚀 Installation & Setup
+ ## 🚀 Installation & Setup
 
- ## Clone the repository
+ ### Clone the repository
  ```bash
 git clone [https://github.com/AnjaleeNeelika/portfolio-anjalee.git](https://github.com/AnjaleeNeelika/portfolio-anjalee.git)
 ```
 
-## Navigate to the project directory
+### Navigate to the project directory
 ```bash
 cd portfolio-anjalee
 ```
 
-## Install dependencies
+### Install dependencies
 ```bash
 npm install
 ```
 
-##Start the development server
+### Start the development server
 ```bash
 npm run dev
 ```
